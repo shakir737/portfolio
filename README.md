@@ -1,3 +1,17 @@
-# portfolio
+## Getting Started
 
-this website is tracking your changes after all this things has to be changed after all changed
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+## Learn More
+
+## Deploy on Vercel
